@@ -3,6 +3,10 @@
 <topic id="topic_bn5_dcl_blb">
     <title>Title</title>
     <body>
-        <p><xref href="../Mihaela_test/Topic.dita#topic_ixv_5cl_blb/adas"/></p>
+        <p>
+            <xref
+                href="gitgh://https%3A%2F%2Fgithub.com%2Fg-tit-oxygen%2FMihaela_test/master/Topic.dita"
+            />
+        </p>
     </body>
 </topic>
